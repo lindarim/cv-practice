@@ -1,0 +1,130 @@
+body {
+  color: #40514E;
+  margin: 0;
+  background-color: white;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  font-size: 2.5rem;
+  line-height: 1;
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Poppins', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+  color: #11999E;
+  font-size: 1rem;
+}
+
+hr {
+  border-color: #CCCCCC;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto 100px auto;
+}
+
+p {
+  line-height: 2;
+}
+
+/***MID CONTAINER***/
+.avatar-image {
+  height: 20%;
+  width: 20%;
+}
+
+.design-image {
+  height: 20%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.develop-image {
+  height: 20%;
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+/***CONTAINERS***/
+.top-container {
+  background-color: #EBFFFF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.middle-container {
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+/***LOWER CONTAINER***/
+
+.contact-me-container {
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+
+.contact-button {
+  margin: 20px 0 30px 0;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  color: #FFFFFF;
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  width: 150px;
+  padding: 10px;
+  background-color: #66BFBF;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.contact-button:hover {
+  background: #11999E;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+.bottom-container {
+  padding: 20px 0 70px 0;
+  background-color: #66BFBF;
+  height: 100px;
+}
+
+.footer-link {
+  margin: 25px;
+  color: #11999E;
+  text-decoration: none;
+}
+
+.credit-text {
+  color: white;
+  font-size: .8em;
+}
+a:hover {color: #EAF6F6;}
