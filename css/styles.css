@@ -40,7 +40,12 @@ p {
   line-height: 2;
 }
 
-/***MID CONTAINER***/
+/***IMAGES***/
+.boston-image {
+  height: 70%;
+  width: 70%;
+}
+
 .avatar-image {
   height: 20%;
   width: 20%;
@@ -77,8 +82,6 @@ p {
   width: 50%;
   margin: 100px auto 100px auto;
 }
-
-/***LOWER CONTAINER***/
 
 .contact-me-container {
   width: 50%;
@@ -127,7 +130,4 @@ p {
   color: white;
   font-size: .8em;
 }
-
-a:hover {
-  color: #EAF6F6;
-}
+a:hover {color: #EAF6F6;}
