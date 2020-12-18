@@ -40,6 +40,11 @@ p {
   line-height: 2;
 }
 
+/***TOP CONTAINER***/
+.boston-image {
+  height: 400px;
+  width: 795px;
+
 /***MID CONTAINER***/
 .avatar-image {
   height: 20%;
